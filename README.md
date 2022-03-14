@@ -23,3 +23,5 @@ Check out our mockup Machine Learning: https://github.com/wbelayne21/Project/blo
 # GitHub 
 ## Description of the communication protocols 
 Communication kept mainly through Slack, meeting at least once outside class. Might use a workflow app and excel to track progress and establish accountability. 
+
+Click: https://github.com/wbelayne21/Project/blob/b8da7cee5f94602980f4c75150af6c0a2b4a4e8a/BLSdata_csv/Project_tasks.xlsx
