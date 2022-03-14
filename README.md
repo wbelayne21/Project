@@ -15,6 +15,8 @@ Scraping our data from US Bureau of Labor Statistics. Data will include average 
 ##### Questions they hope to answer with the data
 Will prices of groceries inflate or deflate in 2022? 
 
+Check our mockup database: https://github.com/wbelayne21/Project/blob/21be42efd17c16008ff2b8b68b26afc19652d6ba/proj.sql
+Check our mockup Machine Learning: https://github.com/wbelayne21/Project/blob/21be42efd17c16008ff2b8b68b26afc19652d6ba/mockup.ipynb
 
 # GitHub 
 ## Description of the communication protocols 
