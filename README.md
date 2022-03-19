@@ -4,16 +4,17 @@
 # Presentation 
 
 ##  Selected topic 
-Inflation of grocery item prices.
+Inflation of housing prices
 
 ### Reason why they selected their topic 
 Inflation has caused prices to change significantly. 
 
 #### Description of their source of data 
-Scraping our data from US Bureau of Labor Statistics. Data will include average prices of various grocery items in the US from the past ten years.  
+Retrieving our data from Kaggle. The source consists of housing data from 2012-2021
+
 
 ##### Questions they hope to answer with the data
-Will prices of groceries inflate or deflate in 2022? 
+Will certain factors cause the housing market to inflate or deflate?
 
 
 # GitHub 
