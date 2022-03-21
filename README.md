@@ -4,18 +4,21 @@
 # Presentation 
 
 ##  Selected topic 
-Inflation of grocery item prices.
+* Inflation of housing prices
 
 ### Reason why they selected their topic 
-Inflation has caused prices to change significantly. 
+* Inflation has caused prices to change significantly. With many people moving and selling houses, we would like to know if there are certain attributes that determine if a house sells above or below the listing price.
 
 #### Description of their source of data 
-Scraping our data from US Bureau of Labor Statistics. Data will include average prices of various grocery items in the US from the past ten years.  
+* Retrieving our data from Kaggle. The source consists of housing data from 2012-2021
+
 
 ##### Questions they hope to answer with the data
-Will prices of groceries inflate or deflate in 2022? 
+* Does zipcode affect whether a house sells above or below the listing price?
+
+* Are there other factors that determine how a house sells?
 
 
 # GitHub 
 ## Description of the communication protocols 
-Communication kept mainly through Slack, meeting at least once outside class. Might use a workflow app and excel to track progress and establish accountability. 
+* Communication kept mainly through Slack, meeting at least once outside class. Might use a workflow app and excel to track progress and establish accountability. 
