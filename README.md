@@ -4,19 +4,22 @@
 # Presentation 
 
 ##  Selected topic 
-Inflation of housing prices
+Credit Card Approval
 
 ### Reason why they selected their topic 
-Inflation has caused prices to change significantly. With many people moving and selling houses, we would like to know if there are certain attributes that determine if a house sells above or below the listing price.
+Having credit card can be very beneficial in today’s society. Whether it is to build up one’s credit score, earn travel rewards, discounts and cash back, or simply for convenience as it is a highly accepted method of payment. 
 
 #### Description of their source of data 
-Retrieving our data from Kaggle. The source consists of housing data from 2012-2021
+Retrieving our data from Kaggle. The source consists of Credit Card applicant data and status.
 
 
 ##### Questions they hope to answer with the data
-Does zipcode affect whether a house sells above or below the listing price?
+Is an applicant eligible for a credit card?
 
-Are there other factors that determine how a house sells?
+What is the most determining factor to be approved/denied.
+
+Are there more disparities amongst certain demographics?
+
 
 
 # GitHub 
