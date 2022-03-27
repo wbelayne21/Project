@@ -22,6 +22,11 @@ Are there more disparities amongst certain demographics?
 
 
 
+# Machine Learning Outline
+<img width="1344" alt="Screen Shot 2022-03-27 at 1 26 59 PM" src="https://user-images.githubusercontent.com/89025577/160293282-f1b837d2-0c60-47bf-8bf5-66255a2bc4eb.png">
+
+
+
 # GitHub 
 ## Description of the communication protocols 
 Communication kept mainly through Slack, meeting at least once outside class. Might use a workflow app and excel to track progress and establish accountability. 
