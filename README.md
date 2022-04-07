@@ -48,4 +48,6 @@ We chose RandomForest as our model of choice, with an 80/20 split.
 
 
 ## Google Slides
-The google slides draft can be viewed [here](https://docs.google.com/presentation/d/18r-0-Y9fYFxiQHHN1GIJQajiu8q7AQ_mORONhFp7d_Y/edit?usp=sharing)
+The final google slides by the rubric criteria can be found [here](https://docs.google.com/presentation/d/18r-0-Y9fYFxiQHHN1GIJQajiu8q7AQ_mORONhFp7d_Y/edit?usp=sharing)
+
+The final google slides by presentation criteria can be found [here](https://docs.google.com/presentation/d/1vCq1hBp0jz1is1371oAH0iIhiZWpFG7T1LVnkmtsitU/edit?usp=sharing)
